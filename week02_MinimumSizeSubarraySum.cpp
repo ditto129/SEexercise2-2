@@ -33,7 +33,7 @@ int main() {
 		arr.push_back(num);
 	}
 
-	cout << minsubsum(arr,size,s) << '++--*//' <<endl;
+	cout << minsubsum(arr,size,s) << "+-*/" <<endl;
 
 	system("pause");
 	return 0;
